@@ -4,7 +4,7 @@
   "description": "Copy text to clipboard in chrome",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "standard"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/uiureo/chrome-clip-copy/issues"
   },
-  "homepage": "https://github.com/uiureo/chrome-clip-copy"
+  "homepage": "https://github.com/uiureo/chrome-clip-copy",
+  "devDependencies": {
+    "standard": "^3.9.0"
+  }
 }
