@@ -1,0 +1,19 @@
+{
+  "name": "chrome-clip-copy",
+  "version": "1.0.0",
+  "description": "Copy text to clipboard in chrome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uiureo/chrome-clip-copy.git"
+  },
+  "author": "Kazato Sugimoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uiureo/chrome-clip-copy/issues"
+  },
+  "homepage": "https://github.com/uiureo/chrome-clip-copy"
+}
